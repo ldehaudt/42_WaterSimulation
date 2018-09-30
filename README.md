@@ -4,6 +4,8 @@ A smooth terain generator and water physics simulator made in c using 42's minil
 
 This project was made with Conan Wu (conanwu777), go give her stuff a look if you haven't already.
 
+Go with the flow but make sure you enjoy ^-^
+
 # Running the program
 
 Call `make` to compile, then execute with `./mod1 "MAP_NAME"`.
