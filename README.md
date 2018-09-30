@@ -1,6 +1,6 @@
 ## 42_WaterSimulation
 
-A smooth terain generator and water physics simulator made in c using 42's minilibX.
+A smooth terain generator and water physics simulator made in c using simplistic 42's minilibX.
 
 This project was made with Conan Wu (conanwu777), go give her stuff a look if you haven't already.
 
